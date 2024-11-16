@@ -1,6 +1,6 @@
 # password-locker-unlocker
 
-This scripts solves password-locker.com sequential number-counting puzzles
+This scripts solves password-locker.com sequential number-counting puzzles.
 
 This Python script uses Selenium WebDriver to automate the process by detecting the target number, counting its occurrences in a grid, and submitting answers automatically.
 
