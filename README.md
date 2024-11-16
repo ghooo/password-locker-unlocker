@@ -8,3 +8,9 @@ After completing all puzzles, it reveals the PIN code, reducing a 30+ minute man
 ```sh
 > pip install selenium
 ```
+
+# Demo
+
+
+https://github.com/user-attachments/assets/a8f10640-c8bb-43f7-a0a2-1a99d9b49bd7
+
